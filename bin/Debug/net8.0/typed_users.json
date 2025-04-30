@@ -1,0 +1,14 @@
+[
+  {
+    "Role": "Admin",
+    "Name": "AdminUser",
+    "Age": 45,
+    "City": "Vilnius"
+  },
+  {
+    "Role": "User",
+    "Name": "RegularJoe",
+    "Age": 25,
+    "City": "Kaunas"
+  }
+]
